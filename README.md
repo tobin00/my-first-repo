@@ -9,3 +9,5 @@ Now I'm learning version control.
 - Integrate with Claude Code
 
 Edited on github!
+
+Closing an issue #1
