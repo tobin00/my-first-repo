@@ -7,3 +7,5 @@ Now I'm learning version control.
 - Understand Git basics
 - Learn branching and merging
 - Integrate with Claude Code
+
+Edited on github!
