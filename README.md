@@ -1,6 +1,9 @@
 # my-first-repo
 Learning github
 
-Now I'm learning version control.  Second time.
+Now I'm learning version control.  
 
-One more test.
+## My Learning Goals
+- Understand Git basics
+- Learn branching and merging
+- Integrate with Claude Code
